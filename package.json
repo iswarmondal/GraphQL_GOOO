@@ -1,0 +1,24 @@
+{
+  "name": "graphql_gooo",
+  "version": "1.0.0",
+  "description": "This is the repo where I learn about GraphQL with NodeJS and ExpressJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iswarmondal/GraphQL_GOOO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iswarmondal/GraphQL_GOOO/issues"
+  },
+  "homepage": "https://github.com/iswarmondal/GraphQL_GOOO#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.3.0"
+  }
+}
